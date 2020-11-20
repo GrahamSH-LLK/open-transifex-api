@@ -19,8 +19,8 @@ PORT = int(os.environ.get("PORT", "5000"))
 AUTH = ("api", TRANSIFEX_PASSWORD)
 EXAMPLE_ENTRIES = {
     "resource_slug": "07-better-to-be-hopeful-txt",
-    "project_slug": "12-characters-play",
-    "organization_slug": "12-characters",
+    "project_slug": "scratch-addons-extension",
+    "organization_slug": "scratch-addons",
     "language_code": "de",
     "color": "green",
     "label": "label",
